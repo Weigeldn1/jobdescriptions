@@ -7,7 +7,7 @@
 - At least 3 years of professional experience in programming in R/Python
 - SQL knowlegde
 - Commmunication Skills
-- ![link](https://www.stepstone.de/stellenangebote--Data-Scientist-w-m-d-Machine-Learning-Hamburg-ALD-AutoLeasing-D-GmbH--10651584-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0)
+- [link](https://www.stepstone.de/stellenangebote--Data-Scientist-w-m-d-Machine-Learning-Hamburg-ALD-AutoLeasing-D-GmbH--10651584-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0)
 
 ### 2 
 - University degree in computer science, mathematics. economics or comparable education
