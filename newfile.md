@@ -13,7 +13,7 @@
 - University degree in computer science, mathematics. economics or comparable education
 - experiece in Pyhton, Qlik, Tableau, Power PI
 - Good anayltical skills + good communication and presentations skills 
-- ![link](https://www.stepstone.de/stellenangebote--Data-Scientist-m-w-d-bundesweit-Berlin-Frankfurt-am-Main-Hamburg-Koeln-Leipzig-Muenchen-Sopra-Steria--9284609-inline.html?rltr=3_3_25_seorl_m_1_0_0_0_0_0) 
+- [link](https://www.stepstone.de/stellenangebote--Data-Scientist-m-w-d-bundesweit-Berlin-Frankfurt-am-Main-Hamburg-Koeln-Leipzig-Muenchen-Sopra-Steria--9284609-inline.html?rltr=3_3_25_seorl_m_1_0_0_0_0_0) 
 
 # Data Analyst: 
 
@@ -24,13 +24,14 @@
 - First experience in project management
 - Experience in test management
 - Sound SQL knowledge
-- ![link](https://www.stepstone.de/stellenangebote--Data-Analyst-m-w-d-Projekt-Management-Know-How-Data-Analytics-Vertriebsplanung-Berlin-Sparkassen-Rating-und-Risikosysteme-GmbH--10582886-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0)
+- [link](https://www.stepstone.de/stellenangebote--Data-Analyst-m-w-d-Projekt-Management-Know-How-Data-Analytics-Vertriebsplanung-Berlin-Sparkassen-Rating-und-Risikosysteme-GmbH--10582886-inline.html?rltr=11_11_25_seorl_m_0_0_0_0_0_0)
 
 
 ### 2 
 - Experinece in modelling, analyzing and visualizing data with Microsoft Power BI/similiar tools
 - Practical experience in cloud-based data platform and SQL&Python knowledge
-- Solution-oriented way of working 
+- Solution-oriented way of working
+- [link](https://www.stepstone.de/stellenangebote--Data-Analyst-w-m-d-Holzwickede-Hamburg-Wesel-Rhenus-Warehousing-Solutions-SE-Co-KG--10480739-inline.html?rltr=13_13_25_seorl_m_1_0_0_0_1_0)
 
 
 
